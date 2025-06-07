@@ -1,0 +1,28 @@
+h1{
+    color: blueviolet;
+    font-family: sans-serif;
+}
+h2{
+    color: blueviolet;
+    font-family: sans-serif;
+}
+p{
+    color: blue;
+    font-family: fantasy;
+}
+ul{
+    list-style-image: url(images/pointer-icon.png);
+}
+ol{
+    list-style-type: lower-roman;
+}
+
+ #menu-bar a{
+    background-color: violet;text-decoration: none;
+    font-family: Arial, Helvetica;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: #ffffff;
+}
